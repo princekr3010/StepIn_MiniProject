@@ -3,6 +3,16 @@
 ![pic](https://user-images.githubusercontent.com/68175614/114690650-88910e00-9d34-11eb-97ab-a6014112de81.png)
 
 
+#### Folder Structure <br/>
+
+| Folder Name  | Specification |
+| ------------- | ------------- |
+| Architecture  | Data flow diagram and Requirements  |
+| Testplan/html  | Doxygen documentation for test file ot test plane  |
+| Video | Video of runnning code|
+| documentation/html | Doxygen documentation |
+| Implementation | contains complete code|
+
 ### To Complie the code.
 ##### use command 'make' in the current directory.
 
