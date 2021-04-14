@@ -21,12 +21,9 @@
 
 ###### 1. Vs Computer Mode:<br/> In this mode only one player can play against computer. <br/> The first move is played by the user and after that computer will decide a random move from the all available valid move. At last If computer wins it displays a message of 'I win' or if user wins it displays a message  'You Won'. 
 
-###### After the game completes program asks for weather you want to play again or not.
-
-<br/>
+###### After the game completes program asks for weather you want to play again or not.<br/>
 ## To Read the Doxygen Documentation
 [Click](https://princekr3010.github.io/mini_Project_documentation.github.io/files.html)
 
-<br/>
 ## To Read the TEST Plan Doxygen Documentation
-[Click](https://princekr3010.github.io/Testplan.github.io/files.html)
+[Test](https://princekr3010.github.io/Testplan.github.io/files.html)
