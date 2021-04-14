@@ -2,6 +2,10 @@
 ## DATA FLOW DIAGRAM<br/>
 ![Capture](https://user-images.githubusercontent.com/68175614/114697423-88484100-9d3b-11eb-88e8-7a07e25e7618.JPG)
 
+## Flow Chart:<br/>
+![Capture1](https://user-images.githubusercontent.com/68175614/114710052-ec263600-9d4a-11eb-9ae9-1d314c8c5427.JPG)
+
+
 
 #### MultiPlayer Mode:<br/>
 
