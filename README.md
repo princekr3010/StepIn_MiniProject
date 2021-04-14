@@ -8,7 +8,7 @@
 | Folder Name  | Specification |
 | ------------- | ------------- |
 | Architecture  | Data flow diagram and Requirements  |
-| Testplan/html  | Doxygen documentation for test file ot test plane  |
+| Testplan/html  | Doxygen documentation for test file or test plane  |
 | Video | Video of runnning code|
 | documentation/html | Doxygen documentation |
 | Implementation | contains complete code|
