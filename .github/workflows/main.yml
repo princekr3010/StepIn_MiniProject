@@ -24,16 +24,9 @@ jobs:
     steps:
       # Checks-out your repository under $GITHUB_WORKSPACE, so your job can access it
       - uses: actions/checkout@v2
-      
-      - name: apt install dependency
-        run: |
-           sudo apt-get -y install valgrind
-           sudo apt-get -y install libcunit1 libcunit1-doc libcunit1-dev 
-      - name: make test
-        run: |
-          make -C 3_Implementation/
-          make test -C 3_Implementation/
-          valgrind ./3_Implementation/Build/Test_Filters.out
+
+      - name: make
+        run: make -C 3_Implementation/ all
 
 
 
