@@ -3,9 +3,9 @@
 ![pic](https://user-images.githubusercontent.com/68175614/114690650-88910e00-9d34-11eb-97ab-a6014112de81.png)
 
 
-| Build | Code Quality |
-| ---------- | ---------- |
-| [![CI Build Status](https://github.com/princekr3010/StepIn_MiniProject/actions/workflows/main.yml/badge.svg)](https://github.com/princekr3010/StepIn_MiniProject/actions/workflows/main.yml) | [![Code Quality - Static Code - Cppcheck](https://github.com/princekr3010/StepIn_MiniProject/actions/workflows/cppcheck.yml/badge.svg)](https://github.com/princekr3010/StepIn_MiniProject/actions/workflows/cppcheck.yml) |
+| Build | Code Quality | Git Inspector (using github.io) | Unity Testing |
+| ---------- | ---------- | ---------- | --------------- |
+| [![CI Build Status](https://github.com/princekr3010/StepIn_MiniProject/actions/workflows/main.yml/badge.svg)](https://github.com/princekr3010/StepIn_MiniProject/actions/workflows/main.yml) | [![Code Quality - Static Code - Cppcheck](https://github.com/princekr3010/StepIn_MiniProject/actions/workflows/cppcheck.yml/badge.svg)](https://github.com/princekr3010/StepIn_MiniProject/actions/workflows/cppcheck.yml) | [![Contribution Check - Git Inspector](https://github.com/princekr3010/StepIn_MiniProject/actions/workflows/gitinspector.yml/badge.svg)](https://github.com/princekr3010/StepIn_MiniProject/actions/workflows/gitinspector.yml) | [![Unit Testing - Unity](https://github.com/princekr3010/StepIn_MiniProject/actions/workflows/unity.yml/badge.svg)](https://github.com/princekr3010/StepIn_MiniProject/actions/workflows/unity.yml) |
 
 
 #### Folder Structure <br/>
