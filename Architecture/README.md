@@ -1,3 +1,7 @@
+# SWOT Analysis
+
+![jjhhh](https://user-images.githubusercontent.com/68175614/114838978-df5d1d00-9df2-11eb-9ed2-0998519c80de.jpg)
+
 
 ## DATA FLOW DIAGRAM<br/>
 ![Capture](https://user-images.githubusercontent.com/68175614/114697423-88484100-9d3b-11eb-88e8-7a07e25e7618.JPG)
