@@ -18,7 +18,7 @@
  * 
  * @return it returns integer if program executes sucessfully without an error. 
  */
-int game(){
+int main(){
 
 
     printf("***************************************************\n");
@@ -52,5 +52,5 @@ int game(){
         break;
 
     }
-  return 1;
+  return 0;
 }
