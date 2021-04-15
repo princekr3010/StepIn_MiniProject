@@ -27,6 +27,6 @@ jobs:
 
       # Runs a single command using the runners shell
       - name: make
-        run: make RUN -C implemetation/
+        run: make RUN -C implemetation/src
 
    
