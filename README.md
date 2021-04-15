@@ -3,6 +3,11 @@
 ![pic](https://user-images.githubusercontent.com/68175614/114690650-88910e00-9d34-11eb-97ab-a6014112de81.png)
 
 
+| Build | Code Quality |
+| ---------- | ---------- |
+| [![CI Build Status](https://github.com/princekr3010/StepIn_MiniProject/actions/workflows/main.yml/badge.svg)](https://github.com/princekr3010/StepIn_MiniProject/actions/workflows/main.yml) | [![Code Quality - Static Code - Cppcheck](https://github.com/princekr3010/StepIn_MiniProject/actions/workflows/cppcheck.yml/badge.svg)](https://github.com/princekr3010/StepIn_MiniProject/actions/workflows/cppcheck.yml) |
+
+
 #### Folder Structure <br/>
 
 | Folder Name  | Specification |
