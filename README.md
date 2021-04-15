@@ -23,7 +23,10 @@
 
 
 ### To Run the program.
-##### use command 'make RUN'
+##### use command 'make run'
+
+### To Run the test file.
+##### use command 'make test'
 
 
 ### To cleane the files.
