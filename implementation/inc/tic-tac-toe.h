@@ -79,6 +79,6 @@ void multiplayer();
  * 
  * @return it returns integer if program executes sucessfully without an error. 
  */
-int game();
+//int game();
 
 
