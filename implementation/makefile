@@ -7,7 +7,7 @@ TEST = unity/unity.c
 
 DOCUMENTATION_OUTPUT = documentation/html
 
-$(PROJECT_NAME): $(SRC)
+all: $(SRC)
 		gcc -I $(INC) -I$(UNITY) $(SRC) $(TEST) -o tic-tac-toe.exe
 
 RUN:  $(PROJECT_NAME)
