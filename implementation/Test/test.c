@@ -11,7 +11,8 @@
 #include<stdio.h>
 #include <stdlib.h>
 #include "tic-tac-toe.h"
-#include "unity.h"
+#include "..\unity\unity.h"
+
 
 /// Setup function for Unity.
 void setUp(){}

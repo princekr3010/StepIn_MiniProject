@@ -9,7 +9,7 @@ BUILD = build
 SRC = src/disp_matrix.c src/get_computer_move.c src/get_player_move.c src/init_matrix.c src/check_result.c src/vscomputer.c src/multiplayer.c src/game.c
 
 # All test source files
-TEST_SRC = src/disp_matrix.c src/get_computer_move.c src/get_player_move.c src/init_matrix.c src/check_result.c src/vscomputer.c src/multiplayer.c Test/test.c
+TEST_SRC = src/disp_matrix.c src/get_computer_move.c src/get_player_move.c src/init_matrix.c src/check_result.c src/vscomputer.c src/multiplayer.c Test/test.c unity/unity.c
 
 TEST_OUTPUT = $(BUILD)/Test_$(PROJECT_NAME).out
 
