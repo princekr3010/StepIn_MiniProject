@@ -10,9 +10,8 @@
  */
 #include<stdio.h>
 #include <stdlib.h>
-#include "../inc/tic-tac-toe.h"
-#include "../unity/unity_internals.h"
-#include "../unity/unity.h"
+#include "tic-tac-toe.h"
+#include "unity.h"
 
 /// Setup function for Unity.
 void setUp(){}
@@ -55,9 +54,9 @@ void Test_computer_move(void){
  * @brief This function run the complete game and check weather every module runs fine.
  * 
  */
-void Test_complete_game(void){
+/*void Test_complete_game(void){
     TEST_ASSERT_EQUAL_INT16(1, game());
-}
+}*/
 
 int main(){
 
@@ -81,9 +80,9 @@ int main(){
     RUN_TEST(Test_computer_move);
     printf("\n");
 /// Tesing Complete game.
-    printf("***********************************Testing Complete game************************************\n\n");  
-    RUN_TEST(Test_complete_game);
-    printf("\n");
+  //  printf("***********************************Testing Complete game************************************\n\n");  
+   // RUN_TEST(Test_complete_game);
+    //printf("\n");
 
    
 
